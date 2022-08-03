@@ -1,0 +1,2 @@
+response_ci.c:6:6:response_print	120	static
+response_ci.c:16:6:response_init	16	static

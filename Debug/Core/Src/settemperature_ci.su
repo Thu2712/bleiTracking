@@ -1,0 +1,2 @@
+settemperature_ci.c:3:6:settemperatureMax	16	static
+settemperature_ci.c:7:6:settemperatureMin	16	static
